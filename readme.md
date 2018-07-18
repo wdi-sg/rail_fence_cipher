@@ -12,6 +12,6 @@ WECRLTEERDSOEEFEAOCAIVDEN
 ```
 
 ### Bonus
-
+* Convert your script to NodeJS
 * Write an encode function were you can specify the number of rails you want
 * Write a decode function
